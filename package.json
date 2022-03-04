@@ -1,0 +1,11 @@
+{
+  "name": "ts-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chen-junyi/ts-challenge",
+  "author": "jingyu <jingyu@gaoding.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
